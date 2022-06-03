@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @gabrielfreitas-azr I’m interested in physics, bioinformatics, neuroscience and all that mixed,
+## About me
+- 👋 Hi, I’m @gabrielfreitas-azr I’m interested in theoretical physics and mathematical models, applied in computational neuroscience,
 - 🧬 I’m currently learning physical and biomolecular sciences,
 - 👨‍💻 The best way to find me is on discord: Space Cowboy#9665.
 
