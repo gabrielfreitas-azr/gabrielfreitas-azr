@@ -1,6 +1,6 @@
 ## About me
 
-- 👋 Hi, I’m @gabrielfreitas-azr I’m interested in theoretical and computanional physics, 
+- 👋 Hi, I’m @gabrielfreitas-azr I’m interested in theoretical and computational physics, 
 - 🧬 Currently, I'm an undergradute in Biomolecular Physics at University of São Paulo,
 - 👨‍💻 The best way to find me is on discord: Space Cowboy#9665.
 
