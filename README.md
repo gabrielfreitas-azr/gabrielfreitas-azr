@@ -10,7 +10,8 @@
 	
 	- 👋 Hi there, I'm @gabrielfreitas-az! 
 	- 📚 I’m interested in theoretical and computational physics, 
-	- 🧬 Currently, I'm an undergradute in Biomolecular Physics at University of São Paulo,
+	- 🧬 I'm an undergradute in Biomolecular Physics at University of São Paulo,
+	- 🐧 My favorite linux distro is archlinux, but currently I run Pop_OS! on my daily desktop, 
 	- 👨‍💻 The best way to find me is on discord: Space Cowboy#9665.
 </div>
 
