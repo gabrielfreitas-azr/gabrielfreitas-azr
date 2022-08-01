@@ -22,7 +22,7 @@
 	- 👋 Hi there, I'm @gabrielfreitas-azr! 
 	- 📚 I’m interested in theoretical and computational physics, 
 	- 🧬 I'm an undergradute in Biomolecular Physics at University of São Paulo,
-	- 🐧 My favorites linux distros are fedora and archlinux, but currently I run Pop_OS! on my daily desktop, 
+	- 🐧 My favorites linux distros are fedora and archlinux, currently I run fedora 36 on my daily desktop, 
 	- 👨‍💻 The best way to find me is on discord: Space Cowboy#9665.
 </div>
 
