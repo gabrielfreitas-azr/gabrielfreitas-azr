@@ -1,8 +1,8 @@
-<img width="275" height="275" src="octocat.png" style="margin-top:-20px" align="right"> 
+<img width="250" height="250" src="octocat.png" style="margin-top:-15px" align="right"> 
 
 ## Gabriel de Freitas 
 
-<div align="left">
+<div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 </div>
 
@@ -17,7 +17,7 @@
 </div>
 
 
-<div align="left">
+<div align="center">
 	<a href="https://github.com/gabrielfreitas-azr">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielfreitas-azr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 	
