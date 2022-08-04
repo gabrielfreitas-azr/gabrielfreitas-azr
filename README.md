@@ -1,6 +1,6 @@
 ## Gabriel de Freitas 
 
-<div align="center">
+<div align="center" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
@@ -17,7 +17,7 @@
 
 ## About me
 
-<div dsplay="inline-block">
+<div display="inline-block">
 
 	- 👋 Hi there, I'm @gabrielfreitas-azr! 
 	- 📚 I’m interested in theoretical and computational physics, 
