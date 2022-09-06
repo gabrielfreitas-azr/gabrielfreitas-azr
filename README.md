@@ -12,7 +12,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 </div>
 
 ## About me
@@ -20,9 +19,9 @@
 <div display="inline-block">
 
 	- 👋 Hi there, I'm @gabrielfreitas-azr! 
-	- 📚 I’m interested in theoretical and computational physics, 
+	- 📚 I’m interested in physics and computation, 
 	- 🧬 I'm an undergradute in Computational Physics at University of São Paulo,
-	- 🐧 My favorites linux distros are fedora and archlinux,  
+	- 🐧 My favorites linux distros are fedora and archlinux, currently I run fedora 36 on my daily desktop, 
 	- 👨‍💻 The best way to find me is on discord: Space#0191.
 </div>
 
