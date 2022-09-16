@@ -16,7 +16,7 @@
 <div display="inline-block">
 
 	- 👋 Hi there, I'm @gabrielfreitas-azr! 
-	- 📚 I’m interested in physics and computation, 
+	- 📚 I’m interested in physics, 
 	- 🧬 I'm an undergradute in Computational Physics at University of São Paulo,
 	- 🐧 My favorites linux distros are fedora and archlinux, currently I run fedora 36 on my daily desktop, 
 	- 👨‍💻 The best way to find me is on discord: Space#0191.
