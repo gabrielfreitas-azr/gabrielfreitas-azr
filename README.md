@@ -10,7 +10,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" height="40"/>
 </div>
 
-## About me
+</br>
 
 <div display="inline-block">
 
@@ -19,5 +19,4 @@
 	- 🧬 I'm an undergradute in Computational Physics at University of São Paulo,
 	- 👨‍💻 The best way to find me is on discord: Space#0191.
 </div>
-
-
+	
