@@ -16,7 +16,7 @@
 
 	- 👋 Hi there, I'm @gabrielfreitas-azr! 
 	- 📚 I’m interested in physics, 
-	- 💻 I'm an undergradute in Computational Physics at University of São Paulo,
+	- 💻 I'm an undergraduate in Computational Physics at University of São Paulo,
 	- 👨‍💻 The best way to find me is on discord: Space#0191.
 </div>
 	
