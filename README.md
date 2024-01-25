@@ -1,20 +1,19 @@
-## Gabriel de Freitas 
 
-<div align="center" >
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" width="40" height="40"/>       
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-</div>
+## 🛰️ Hi, there! I'm Gabriel de Azeredo, an undergraduate student at IFSC/USP.
 
-</br>
+I'm currently studying for a bachelor's degree in computational physics and work in undergraduate research with the Astroparticle Physics group. 
 
-<div display="inline-block">
+### 🌌 Astrophysics
 
-	- 👋 Hi there, I'm @gabrielfreitas-azr! 
-	- 📚 I’m interested in physics, 
-	- 💻 I'm an undergraduate in Computational Physics at University of São Paulo,
-	- 👨‍💻 The best way to find me is on discord: Space#0191.
-</div>
-	
+My research primarily centers on investigating the propagation of particles through the Universe. I have a major interest in modeling and simulating astrophysical environments and also applied data science for observatories.
+
+- 🔭 Research interests: Ultra-high energy cosmic rays sources, numerical methods for particle propagation.
+
+### 💻 Software & Data Science Skills
+
+- **Languages:** Julia, C++, Fortran.
+- **Data Analysis:** Python: Pandas, Scikit-learn, Scipy, Matplotlib.
+
+### 📡 Let's Connect
+
+- 📧 Email: gabrielfreitas.azr@usp.br
