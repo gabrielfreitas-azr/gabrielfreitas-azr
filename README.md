@@ -7,7 +7,8 @@ I'm currently studying for a bachelor's degree in computational physics and work
 
 My research primarily centers on investigating the propagation of particles through the Universe. I have a major interest in modeling and simulating astrophysical environments and also applied data science for observatories.
 
-- 🔭 Research interests: Ultra-high energy cosmic rays sources, numerical methods for particle propagation.
+- 🔭 Current Project: Numerical methods to compute ultra-high energy cosmic ray spectra.
+- 🚀 Research interests: Ultra-high energy cosmic rays sources, numerical methods for particle propagation.
 
 ### 💻 Software & Data Science Skills
 
