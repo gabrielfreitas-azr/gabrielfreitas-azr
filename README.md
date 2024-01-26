@@ -1,7 +1,7 @@
 
 ## 🛰️ Hi, there! I'm Gabriel de Azeredo, an undergraduate student at IFSC/USP.
 
-I'm currently studying for a bachelor's degree in computational physics and work in undergraduate research with the Astroparticle Physics group. 
+I'm currently studying for a bachelor's degree in computational physics and working in undergraduate research with the Astroparticle Physics group. 
 
 ### 🌌 Astrophysics
 
